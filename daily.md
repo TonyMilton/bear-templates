@@ -1,50 +1,60 @@
 ## Top 3 Today
-- [ ] 
-- [ ] 
-- [ ] 
 
+- [ ]
+- [ ]
+- [ ]
+
+## Other
+
+- [ ]
+- [ ]
+- [ ]
 
 ## Brain Dump
-- [ ] 
-- [ ] 
-- [ ] 
 
-## Also did
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
+- [ ]
 
 ## Notes
-> 
+
+>
 
 ## What was good today
-> 
+
+>
 
 ## General
 
-**Bed before midnight:** 
+**Bed before midnight:**
+
 - [ ] Yes
 
 **Energy:**
-- [ ] Low  
+
+- [ ] Low
 - [ ] Good
 - [ ] High
 
 **Focus:**
-- [ ] Scattered  
+
+- [ ] Scattered
 - [ ] OK
 - [ ] Locked In
 
 ## Consume
 
-**Drank water:** 
+**Drank water:**
+
 - [ ] Yes
 
-**Ate:** 
+**Ate:**
+
 - [ ] Vegetables
 - [ ] Fruit
 
 **Sugar:**
+
 - [ ] None
 - [ ] Low
 - [ ] Excessive
@@ -52,26 +62,30 @@
 ## Move
 
 **Did you go out today:**
+
 - [ ] Yes
 
 **Did you move today:**
+
 - [ ] Yes
 
-**What did you do:** 
-> 
+**What did you do:**
+
+>
 
 ## Brain
 
-**Reached out to someone:** 
+**Reached out to someone:**
+
 - [ ] Yes
 
-**Calm app:** 
+**Calm app:**
+
 - [ ] Yes
 
 ## Daily photo
 
 Add a photo you took today here:
-
 
 ## Create / Consume
 
