@@ -1,7 +1,3 @@
-#YYYY-YY-dd - dddd
-
-#03 - log#
-
 ## Top 3 Today
 - [ ] 
 - [ ] 
